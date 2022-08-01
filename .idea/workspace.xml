@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cbd2ab0d-c04b-49a1-a877-7131352da06b" name="Changes" comment="" />
+    <list default="true" id="cbd2ab0d-c04b-49a1-a877-7131352da06b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/beatmania_app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,6 +108,7 @@
       <workItem from="1658786914718" duration="16490000" />
       <workItem from="1659187740022" duration="3405000" />
       <workItem from="1659395058326" duration="1117000" />
+      <workItem from="1659396436441" duration="753000" />
     </task>
     <servers />
   </component>
