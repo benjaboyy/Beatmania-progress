@@ -1,0 +1,32 @@
+@import "assets/scss/bootstrap.scss";
+
+html {
+    background-color: $dark;
+}
+
+h1,h2 {
+    color: white;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+.btn, .modal-content {
+    border-radius: 0;
+    border:0;
+}
+
+td, th, .btn-lg {
+    padding: 15px !important;
+}
+td:hover {
+    background-color: $primary;
+    color: white !important;
+}
+.diff-td {
+    &:hover {
+        filter: brightness(3);
+        color: black !important;
+    }
+}
+
+

@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "userID": "0",
+      "userName": "Henk",
+      "passwordHash": "bfbwert657er65t34bft",
+      "themeID": "0",
+      "SongsCleared": "7"
+    }
+  ],
+  "difficulties": [
+    {
+      "difficultyID": "0",
+      "difficulty": "1",
+      "songID": "0",
+      "groupID": "1"
+    },
+    {
+      "difficultyID": "1",
+      "difficulty": "3",
+      "songID": "0",
+      "groupID": "2"
+    },
+    {
+      "difficultyID": "2",
+      "difficulty": "6",
+      "songID": "0",
+      "groupID": "3"
+    },
+    {
+      "difficultyID": "3",
+      "difficulty": "1",
+      "songID": "1",
+      "groupID": "1"
+    },
+    {
+      "difficultyID": "4",
+      "difficulty": "5",
+      "songID": "1",
+      "groupID": "2"
+    },
+    {
+      "difficultyID": "5",
+      "difficulty": "8",
+      "songID": "1",
+      "groupID": "3"
+    },
+    {
+      "difficultyID": "6",
+      "difficulty": "2",
+      "songID": "2",
+      "groupID": "1"
+    },
+    {
+      "difficultyID": "7",
+      "difficulty": "5",
+      "songID": "2",
+      "groupID": "2"
+    },
+    {
+      "difficultyID": "8",
+      "difficulty": null,
+      "songID": "2",
+      "groupID": "3"
+    }
+  ],
+  "difficultyGroup": [
+    {"groupID": "0", "name": "easy"},
+    {"groupID": "1", "name": "normal"},
+    {"groupID": "2", "name": "hard"}
+  ],
+  "songs": [
+    {
+      "songID": "0",
+      "name": "Kiss Kiss Kiss",
+      "artist": "normal",
+      "bpm": "105",
+      "mixID": "0"
+    },
+    {
+      "songID": "1",
+      "name": "Hell Scraper",
+      "artist": "normal",
+      "bpm": "105",
+      "mixID": "0"
+    },
+    {
+      "songID": "2",
+      "name": "In th beginning",
+      "artist": "normal",
+      "bpm": "105",
+      "mixID": "0"
+    }
+  ],
+  "mixes": [
+    {
+      "mixID": "0",
+      "name": "The Final"
+    }
+  ],
+  "userDifficulty": [
+    {
+      "id": 0,
+      "userID": 0,
+      "difficultyID": 0
+    }
+  ]
+}
